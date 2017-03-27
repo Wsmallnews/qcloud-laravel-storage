@@ -1,0 +1,33 @@
+{
+    "name": "wsmallnews/qcloud-laravel-storage",
+    "description": "qclouds cos api",
+    "version": "1.0.0",
+    "keywords": [
+        "laravel",
+        "qcloud",
+        "cos",
+        "tengxun",
+        "laravel",
+        "tencent",
+        "laravel-storage",
+        "cos"
+    ],
+    "authors": [
+        {
+            "name": "smallnews",
+            "email": "1371606921@qq.com"
+        }
+    ],
+    "homepage": "https://github.com/Wsmallnews/qcloud-laravel-storage",
+    "require": {
+        "php": ">=5.3.0",
+        "tencentyun/cos-php-sdk-v4": "lastest"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Smallnews\\Qls\\": "src/"
+        }
+    }
+}
