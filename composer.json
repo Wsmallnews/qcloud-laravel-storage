@@ -21,7 +21,7 @@
     "homepage": "https://github.com/Wsmallnews/qcloud-laravel-storage",
     "require": {
         "php": ">=5.3.0",
-        "tencentyun/cos-php-sdk-v4": "lastest"
+        "tencentyun/cos-php-sdk-v4": "latest"
     },
     "license": "MIT",
     "minimum-stability": "dev",
